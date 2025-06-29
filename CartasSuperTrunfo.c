@@ -10,7 +10,7 @@ int main() {
     // Declaração das variáveis para armazenar os dados da carta 1:
     char estado_0;
     char codigo_0[2];
-    char cidade_0[30];
+    char cidade_0[50];
     int populacao_0;
     float area_0;
     float pib_0;
@@ -19,7 +19,7 @@ int main() {
     // Declaração das variáveis para armazenar os dados da carta 1:
     char estado_1;
     char codigo_1[2];
-    char cidade_1[30];
+    char cidade_1[50];
     int populacao_1;
     float area_1;
     float pib_1;
